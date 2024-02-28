@@ -1,9 +1,8 @@
-// app/basic/page.tsx
 import React from 'react'
 
 const page = () => {
   return (
-    <div>베이지 페이지</div>
+    <h1>여기 어디일까?</h1>
   )
 }
 
