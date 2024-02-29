@@ -8,6 +8,6 @@
 .list li {
   font-size: 18px;
 }
-.list li a:hover{
-    color: #ff0000;
+.list li:hover a {
+  color: #ff0000;
 }
